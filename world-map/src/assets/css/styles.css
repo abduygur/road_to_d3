@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&family=Poppins:ital,wght@0,400;0,500;0,900;1,400&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.marks .land {
+    fill: #137B80;
+}
+
+.marks .interiors {
+    fill: none;
+    stroke: #339498;
+}
+
+.marks .sphere {
+    fill: #ececec;
+}
+
+.marks .graticules {
+    fill: none;
+    stroke: #dadada;
+
+}
+
