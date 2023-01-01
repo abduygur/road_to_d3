@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&family=Poppins:ital,wght@0,400;0,500;0,900;1,400&display=swap');
+
+* {
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+.tick {
+    width: 100%;
+} 
+.tick line{
+    stroke: #c0c0bb;
+}
+
+.tick text{
+    fill:#635f5d;
+    cursor: default;
+}
+
+.axis-label, .dropdown-label {
+    font-size: 2.5em;
+    fill:#635f5d;
+    color:#635f5d;
+}
+
+.dropdown-label {
+    margin-right: 10px;
+    margin-left: 50px;
+}
+
+select option {
+    font-size: 1rem;
+}
+
+
+.menuArea {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-right: 60px;
+}
+
+
+
+.Dropdown-root {
+    font-size: 1.5em;
+}
+
+.chart-area {
+    text-align: center;
+}
+
+.data-all {
+    transition: opacity 0.2s;
+}
+
+
+
+
+
+
+
