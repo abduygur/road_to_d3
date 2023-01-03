@@ -1,0 +1,1 @@
+Plot missing migrants on a world map
